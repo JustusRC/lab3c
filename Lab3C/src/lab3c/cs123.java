@@ -1,4 +1,3 @@
-package lab3c;
 import java.util.Scanner ;
 
 public class cs123 {
